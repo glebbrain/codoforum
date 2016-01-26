@@ -10,5 +10,5 @@ Translate codoforum v3.4(http://codoforum.com/) to Russian:<br>
 Translate admin menu:<br>
 &nbsp;&nbsp;edit file "//your.domain.com/admin/layout/templates/layout.tpl"<br>
 &nbsp;&nbsp;change \<span\>Dashboard\</span\> to \<span\>{_t('Dashboard')}\</span\> and so on<br>
-&nbsp;&nbsp;or copy my "admin/layout/templates/layout.tpl"<br>
+&nbsp;&nbsp;or copy my file "admin/layout/templates/layout.tpl"<br>
 
